@@ -1,0 +1,12 @@
+{
+    "name":"reservlab-backend",
+    "version": "1.0.0",
+    "description":"backend do sistema reservlab",
+    "main": "...",
+
+    "scripts": {
+        "dev": "nodemon src/main.js",
+        "start": "node src/main.js"
+    }
+
+}
